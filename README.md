@@ -30,8 +30,9 @@
 -->
 <img src="media/TianocoreTitlePageLogo.jpg" width="300" />
 
+## Official Book at this [link](https://www.gitbook.com/book/edk2-docs/a-tour-beyond-bios-mitigate-buffer-overflow-in-ue/details)
 
-# A Tour Beyond BIOS - Security Enhancement to Mitigate Buffer Overflow in Unified Extensible Interface (UEFI){#a-tour-beyond-bios-security-enhancement-to-mitigate-buffer-overflow-in-uefi}
+####  A Tour Beyond BIOS - Security Enhancement to Mitigate Buffer Overflow in Unified Extensible Interface (UEFI){#a-tour-beyond-bios-security-enhancement-to-mitigate-buffer-overflow-in-uefi}
 <!---
 ### {{ book.title }}
 -->
